@@ -1,0 +1,7 @@
+C:\Users\mario\source\repos\ByteBank\07_ByteBank\bin\Debug\07_ByteBank.exe.config
+C:\Users\mario\source\repos\ByteBank\07_ByteBank\bin\Debug\07_ByteBank.exe
+C:\Users\mario\source\repos\ByteBank\07_ByteBank\bin\Debug\07_ByteBank.pdb
+C:\Users\mario\source\repos\ByteBank\07_ByteBank\obj\Debug\07_ByteBank.csproj.AssemblyReference.cache
+C:\Users\mario\source\repos\ByteBank\07_ByteBank\obj\Debug\07_ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\ByteBank\07_ByteBank\obj\Debug\07_ByteBank.exe
+C:\Users\mario\source\repos\ByteBank\07_ByteBank\obj\Debug\07_ByteBank.pdb
